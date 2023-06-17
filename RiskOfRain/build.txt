@@ -1,0 +1,3 @@
+displayName = Risk of Rain Mod
+author = me
+version = 0.1
